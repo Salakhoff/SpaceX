@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SpaceX
-//
-//  Created by Ильфат Салахов on 06.09.2025.
-//
-
 import UIKit
 
 @main
